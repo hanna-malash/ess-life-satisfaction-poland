@@ -1,0 +1,18 @@
+﻿# Data (do not commit survey datasets)
+data/*
+!data/.gitkeep
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Outputs (optional: keep repo clean)
+outputs/*
+!outputs/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/tables/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
