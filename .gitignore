@@ -1,4 +1,23 @@
-.Rproj.user
+# R / RStudio
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# Data
+*.csv
+*.zip
+*.sav
+*.dta
+*.xlsx
+*.xls
+*.html
+*.pdf
+
+# ESS folders / outputs
+ESS country data - PL/
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db
